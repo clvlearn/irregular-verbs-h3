@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/7648d40e-3abf-42a8-a8b7-841d1562899d)
 <h1>Irregular Verbs Excercise</h1>
-<p>Gemaakt voor CLV Veenendaal, Havo 2 Engelse toetsen over onregelmatige werkwoorden. (Door <a href='https://github.com/yixboost' target='_blank'>Yixboost NL</a>)</p>
+<p>Gemaakt voor CLV Veenendaal, Havo 3 Engelse toetsen over onregelmatige werkwoorden. (Door <a href='https://github.com/yixboost' target='_blank'>Yixboost NL</a>)</p>
 <h4><strong><a href='https://clvlearn.github.io/irregular-verbs/' target='_blank'>Oefen nu!</a></strong></h4>
 <h4>Functies</h4>
 <ul>
